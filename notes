@@ -1,0 +1,40 @@
+This is the notes 
+Position 1: 
+    Line(Point(0.25,2.25),Point(0.75,2.75)).draw(win)
+    Line(Point(0.25,2.75),Point(0.75,2.25)).draw(win)
+
+Position 2: 
+    Line(Point(1.25,2.25),Point(1.75,2.75)).draw(win)
+    Line(Point(1.25,2.75),Point(1.75,2.25)).draw(win)
+
+Position 3: 
+    Line(Point(2.25,2.25),Point(2.75,2.75)).draw(win)
+    Line(Point(2.75,2.25),Point(2.25,2.75)).draw(win)
+
+
+
+Position 4: 
+    Line(Point(0.25,1.25),Point(1.75,1.75)).draw(win)
+    Line(Point(0.75,1.25),Point(1.25,1.75)).draw(win)
+
+Position 5: 
+    Line(Point(1.25,1.25),Point(1.75,1.75)).draw(win)
+    Line(Point(1.75,1.25),Point(1.25,1.75)).draw(win)
+
+Position 6: 
+    Line(Point(2.25,1.25),Point(1.75,1.75)).draw(win)
+    Line(Point(2.75,1.25),Point(1.25,1.75)).draw(win)
+
+
+
+Position 7: 
+    Line(Point(0.25,0.25),Point(0.75,0.75)).draw(win)
+    Line(Point(0.75,0.25),Point(0.25,0.75)).draw(win)
+    
+Position 8: 
+    Line(Point(1.25,0.25),Point(0.75,0.75)).draw(win)
+    Line(Point(1.75,0.25),Point(0.25,0.75)).draw(win)
+Position 9: 
+    Line(Point(2.25,0.25),Point(0.75,0.75)).draw(win)
+    Line(Point(2.75,0.25),Point(0.25,0.75)).draw(win)
+

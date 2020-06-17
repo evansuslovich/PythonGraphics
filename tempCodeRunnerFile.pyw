@@ -1,0 +1,2 @@
+win.getMouse()
+    win.close()
